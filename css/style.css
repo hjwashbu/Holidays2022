@@ -1,5 +1,5 @@
 body{
-    background-image:url(../img/caley-dimmock-_HCpwe1-Prc-unsplash.jpg);
+    background-image:linear-gradient(to right, rgba(0,0,0,0.25),rgba(0,0,0,0.25)),url(../img/caley-dimmock-_HCpwe1-Prc-unsplash.jpg);
     /* 
     Photo by <a href="https://unsplash.com/@caleydimmock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caley Dimmock</a> on <a href="https://unsplash.com/s/photos/holidays?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
     */
