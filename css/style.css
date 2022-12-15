@@ -1,4 +1,38 @@
-.body{
-    background-color: aquamarine;
-    margin: 0;
+body{
+    background-image:url(../img/caley-dimmock-_HCpwe1-Prc-unsplash.jpg);
+    /* 
+    Photo by <a href="https://unsplash.com/@caleydimmock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Caley Dimmock</a> on <a href="https://unsplash.com/s/photos/holidays?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    */
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
+/* NavBar */
+.navbar, .dropdown-item{
+    font-family:'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 20;
+    padding: 20;
+}
+.navtext{
+    color: white;
+}
+
+/* Carousel */
+.past, .history{
+    margin-bottom: 2rem;
+    padding-bottom: 2rem;
+    font-family: 'Roboto', sans-serif;
+    color: #914955;
+}
+.carousel{
+    margin: auto;
+    margin-bottom: 4rem;
+}
+.carousel-item{
+    height: 35rem;
+}
+.d-block{
+    margin: auto;
+}
+
