@@ -18,6 +18,23 @@ body{
     color: white;
 }
 
+/* Jumbotron & Parallax */
+.jumbo{
+    margin-top: 5.5rem;
+    font-family: 'Amatic SC', cursive;
+    color: #fff;
+    letter-spacing: .25rem;
+    background-color: #914955;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.portfolio{
+    font-family:'Roboto', sans-serif;
+}
+
+
 /* Carousel */
 .past, .history{
     margin-bottom: 2rem;
