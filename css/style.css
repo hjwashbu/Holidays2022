@@ -36,3 +36,40 @@ body{
     margin: auto;
 }
 
+
+
+
+@media (max-width: 960px){
+    .carousel-item{
+        height: 25rem;
+    }
+    
+}
+@media (max-width: 720px){
+    .logo{
+        height: 2rem;
+    }
+    /* .jumbo{
+        margin-right: 1rem;
+        margin-left: 1rem;
+    } */
+    .carousel-item{
+        height: 20rem;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .fc{
+        margin: 1rem;
+    }
+}
+@media (max-width: 540px){
+    .carousel-item{
+        height: 15rem;
+    }
+    .d-block{
+        width: 90%;
+    }
+}
