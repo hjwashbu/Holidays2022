@@ -35,7 +35,7 @@ body{
 }
 
 
-/* Note */
+/* Notes */
 .note{
     margin-bottom: 2rem;
     font-family: 'Roboto', sans-serif;
@@ -105,7 +105,8 @@ body{
 
 @media (max-width: 960px){
     .carousel-item{
-        height: 25rem;
+        /* height: 25rem; */
+        height: 100%;
     }
     
 }
@@ -118,7 +119,8 @@ body{
         margin-left: 1rem;
     } */
     .carousel-item{
-        height: 20rem;
+        /* height: 20rem; */
+        height: 75%;
     }
     .footer{
         display: flex;
